@@ -101,3 +101,6 @@ dmypy.json
 
 # VS Code
 .vscode/
+
+# Lock files
+uv.lock
